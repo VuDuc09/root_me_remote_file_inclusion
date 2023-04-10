@@ -1,7 +1,7 @@
 <html>
     <body>
         <pre>
-            <?php $scan = scandir(‘.’); foreach($scan as $file){echo $file;}
+            <?php $scan = scandir("."); foreach($scan as $file){echo $file;}
             ?>
         </pre>
     </body>
